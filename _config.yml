@@ -1,0 +1,28 @@
+name: Unplugged and Unbound
+favicon: null
+layout_spectrum: 0.3496369805652648
+typography_spectrum: 0.7854818408377469
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11293126177042723
+  lightness: 0.7943507938180119
+  saturation: 0.04359937459230423
+  rhythmicContrast: 0.821240661200136
+purpose: []
